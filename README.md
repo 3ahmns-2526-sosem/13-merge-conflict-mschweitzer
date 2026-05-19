@@ -1,6 +1,6 @@
 # 13-merge-conflict-mschweitzer
 
-## Kurzbeschreibung
+## Dieses Projekt wurde lokal bearbeitet.
 
 ## Zielplattform
 
