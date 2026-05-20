@@ -1,7 +1,5 @@
 # 13-merge-conflict-mschweitzer
-
-lokale Änderung
-
+Der Merge Conflict wurde erfolgreich gelöst.
 ## Zielplattform
 
 ## Screenshot
